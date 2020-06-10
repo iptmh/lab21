@@ -5,7 +5,7 @@ Project Name: Component Based UI
 Author: Tammy Ip
 
 Links and Resources (see below)
-submission PR: `https://github.com/tammyip-401-advanced-javascript/lab18/pull/1`
+submission PR: `https://github.com/iptmh/lab21/pull/1`
 Sandbox: `https://codesandbox.io/s/lab-21-87qbe`
 
 Documentation
